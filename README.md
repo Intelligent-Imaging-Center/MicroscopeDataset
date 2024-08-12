@@ -1,4 +1,4 @@
-# MicroscopeDataset
+# MicroscopeDataset (https://www.cs.columbia.edu/CAVE/databases/multispectral/)
 ## Pathological Sample (PS)
 Hematoxylin and Eosin (H&E) stained sliced samples
 from dogs’ lungs and trachea were acquired using a high-magnification slide scanner
