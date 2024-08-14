@@ -1,5 +1,5 @@
 # MicroscopeDataset 
-Download at [dataset](https://drive.google.com/drive/folders/1nSelfO-cODwOuUwjeLgjhR2M5zPEMgSY)
+Download the [dataset](https://drive.google.com/drive/folders/1nSelfO-cODwOuUwjeLgjhR2M5zPEMgSY)
 ## Pathological Sample (PS)
 Hematoxylin and Eosin (H&E) stained sliced samples
 from dogs’ lungs and trachea were acquired using a high-magnification slide scanner
