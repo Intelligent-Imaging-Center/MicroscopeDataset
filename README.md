@@ -13,4 +13,5 @@ High-definition ISO 12233 test chart has been cut and rotated to create this dat
 It features black and white stripes, both inclined
 and vertical, with varying resolutions. The dataset consists of 1682 images of size
 256x256, with 1345 used for training and 337 for validation.
-
+##Citation
+To be updated.
