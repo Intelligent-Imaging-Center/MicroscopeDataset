@@ -16,10 +16,3 @@ and vertical, with varying resolutions. The dataset consists of 1682 images of s
 ## Citation
 To be updated.
 ```plaintext
-@inproceedings{Zamir2021Restormer,
-    title={Restormer: Efficient Transformer for High-Resolution Image Restoration}, 
-    author={Syed Waqas Zamir and Aditya Arora and Salman Khan and Munawar Hayat 
-            and Fahad Shahbaz Khan and Ming-Hsuan Yang},
-    booktitle={CVPR},
-    year={2022}
-}
