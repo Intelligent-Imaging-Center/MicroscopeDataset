@@ -14,5 +14,12 @@ It features black and white stripes, both inclined
 and vertical, with varying resolutions. The dataset consists of 1682 images of size
 256x256, with 1345 used for training and 337 for validation.
 ## Citation
-To be updated.
-```plaintext
+'''@article{nie2025end,
+  title={End-to-end aberration correction network for enhancing miniature microscope resolution},
+  author={Nie, Yunfeng and Su, Runmu and Zhang, Jingang and Ottevaere, Heidi},
+  journal={Optics and Lasers in Engineering},
+  volume={184},
+  pages={108558},
+  year={2025},
+  publisher={Elsevier}
+}
